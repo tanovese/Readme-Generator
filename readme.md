@@ -21,7 +21,7 @@ It is simple to use. Enter node index.js in the terminal and respond to the nece
 
 ## Credits
 
-This app was completed with the help of Andrew Tirpok, a Rutgers tutor.
+This app was completed with the help of a Rutgers tutor named Andrew Tirpok.
 
 ## License
 
