@@ -1,0 +1,14 @@
+{
+  "name": "develop",
+  "version": "1.0.0",
+  "description": "![License:](https://img.shields.io/badge/license-MIT-blue.svg)   ## Description   An app about recent UFO sightings   ## Table of Contents   UFO 1, UFO 2, UFO 3, UFO 4   ## Installation   N/A   ## Usage   Use as much as you like!   ## Contributing   This is an open source project   ## Tests   Test in DevTools   ## Questions   [Github](https://github.com/tanovese)   For more questions: tanovese@gmail.com Please email me at the above address",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
