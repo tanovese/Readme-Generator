@@ -10,7 +10,7 @@ Installation is not required.
 
 ## Usage
 
-It is simple to use. Enter node index.js in the terminal and respond to the necessary prompts. Once you have entered all of the required information, your project Readme.md file is generated instantly.
+It is simple to use. Enter node index.js into the terminal and respond to the necessary prompts. Once you have entered all of the required information, your project Readme.md file is generated instantly.
 
 ## Screenshots of Application
 
