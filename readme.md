@@ -6,7 +6,7 @@ The Readme-Generator uses Node.js to generate a quality readme.md file.
 
 ## Installation
 
-N/A
+Installation is not required.
 
 ## Usage
 
