@@ -12,12 +12,14 @@ Installation is not required.
 
 It is simple to use. Enter node index.js into the terminal and respond to the necessary prompts. Once you have entered all of the required information, your project Readme.md file is generated instantly.
 
-## Screenshots of Application
+## Screenshots of Application and Link to Video Walkthrough
 
 ![](./images/Screenshot%202023-06-15%20164711.png)
 ![](./images/Screenshot%202023-06-15%20164608.png)
 ![](./images/Screenshot%202023-06-15%20165013.png)
 ![](./images/Screenshot%202023-06-15%20165025.png)
+
+Link: https://drive.google.com/file/d/17EknPvR4f-66h0pNoaeItO5QPLIFPLvt/view
 
 ## Credits
 
